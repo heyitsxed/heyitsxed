@@ -72,6 +72,7 @@ I specialize in developing and maintaining iOS applications, improving app stabi
 
 * LinkedIn: https://www.linkedin.com/in/cedrick-baltazar-526435258/
 * Email: cpe.cedrickbaltazar@gmail.com
+* Website: https://heyitsxed.netlify.app
 
 ---
 
